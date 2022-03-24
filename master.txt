@@ -1,2 +1,6 @@
 This is master file
+
 This line is edited by private branch
+
+This line is edited in public2 branch
+
